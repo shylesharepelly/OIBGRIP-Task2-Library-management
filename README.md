@@ -1,4 +1,4 @@
-# OIBGRIP-Task2-Library-management
+# OIBSIP-Task2-Library-management
 
 Library management contains 
 Admin(username="root",password="root")
